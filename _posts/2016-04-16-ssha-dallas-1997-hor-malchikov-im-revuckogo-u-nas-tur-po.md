@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BEFwM74yQ_s/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-16T14:54:16.447Z'
+dateModified: '2016-04-16T14:54:02.690Z'
 author:
   - name: romankasevich
     url: 'https://www.instagram.com/romankasevich'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1226598468698050540'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BEFwM74yQ_s/'
 title: 'США, Даллас, 1997, хор мальчиков им. Ревуцкого. У нас тур по штатам, я хлыщу газировку и мне никто не запрещает, ха) #tbt #throwbackthursday'
-datePublished: '2016-04-16T14:53:18.621Z'
-dateModified: '2016-04-16T14:53:09.530Z'
 sourcePath: _posts/2016-04-16-ssha-dallas-1997-hor-malchikov-im-revuckogo-u-nas-tur-po.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
