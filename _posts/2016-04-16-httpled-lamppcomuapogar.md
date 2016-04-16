@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'http://led-lampp.com.ua/pogar/'
-datePublished: '2016-04-16T14:55:52.912Z'
-dateModified: '2016-04-16T14:55:52.623Z'
+datePublished: '2016-04-16T14:57:23.498Z'
+dateModified: '2016-04-16T14:57:09.131Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-16-httpled-lamppcomuapogar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-httpled-lamppcomuapogar.md
-published: true
 url: httpled-lamppcomuapogar/index.html
 _type: Article
 
