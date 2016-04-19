@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: This is my first post on grid. Hello
-datePublished: '2016-04-18T23:35:53.860Z'
-dateModified: '2016-04-18T23:35:38.044Z'
+datePublished: '2016-04-19T01:27:50.179Z'
+dateModified: '2016-04-19T01:27:37.880Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-this-is-my-first-post-on-grid-hello.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-this-is-my-first-post-on-grid-hello.md
-published: true
-url: this-is-my-first-post-on-grid-hello/index.html
-_type: Article
+_type: Blurb
 
 ---
 This is my first post on grid. Hello
