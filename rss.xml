@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blog.romankasevich.com]]></title>
         <description><![CDATA[blog.romankasevich.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://blog.romankasevich.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 14:32:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 14:35:04 GMT</lastBuildDate>
+        <atom:link href="http://blog.romankasevich.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[После небольшой паузы, зарядившись, наполнившись огнем от Бога, начал работу над новым проектом. Некоторые уже слышали о #мойпожар, это будет не просто песней, это будет моим личным переживанием. Я написал некоторым друзьям с которыми уже начали снимать видео. Релиз этой песни будет 13-го мая) но эта идея уже успела повлиять на меня... И не только на меня... Спасибо каждому кто участвует, верю мы делаем правильное дело... #мойпожар]]></title>
             <description><![CDATA[<article><h1>После небольшой паузы, зарядившись, наполнившись огнем от Бога, начал работу над новым проектом. Некоторые уже слышали о #мойпожар, это будет не просто песней, это будет моим личным переживанием. Я написал некоторым друзьям с которыми уже начали снимать видео. Релиз этой песни будет 13-го мая) но эта идея уже успела повлиять на меня... И не только на меня... Спасибо каждому кто участвует, верю мы делаем правильное дело... #мойпожар</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf58bd0a00999f40a0436dd3469918ceb5e5e34e.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BEZNZ6lSQ_p/?taken-by=romankasevich</link>
             <guid isPermaLink="false">a4f3ba52-fe0b-4f86-82d2-4618776b07d6</guid>
-            <pubDate>Wed, 20 Apr 2016 14:32:26 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 14:34:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
