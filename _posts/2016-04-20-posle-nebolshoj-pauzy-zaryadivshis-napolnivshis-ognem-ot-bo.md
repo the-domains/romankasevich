@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BEZNZ6lSQ_p/?taken-by=romankasevich'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-20T14:34:53.993Z'
+dateModified: '2016-04-20T14:34:45.777Z'
 author:
-  - name: romankasevich
+  - name: Roman Kasevich
     url: 'https://www.instagram.com/romankasevich'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1232074928556675049'
     type: ios
@@ -25,16 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BEZNZ6lSQ_p/?taken-by=romankasevich'
 title: 'После небольшой паузы, зарядившись, наполнившись огнем от Бога, начал работу над новым проектом. Некоторые уже слышали о #мойпожар, это будет не просто песней, это будет моим личным переживанием. Я написал некоторым друзьям с которыми уже начали снимать видео. Релиз этой песни будет 13-го мая) но эта идея уже успела повлиять на меня... И не только на меня... Спасибо каждому кто участвует, верю мы делаем правильное дело... #мойпожар'
-datePublished: '2016-04-20T14:32:26.472Z'
-dateModified: '2016-04-20T14:31:57.122Z'
-description: ''
 sourcePath: _posts/2016-04-20-posle-nebolshoj-pauzy-zaryadivshis-napolnivshis-ognem-ot-bo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: MediaObject
 _context: 'http://schema.org'
 
